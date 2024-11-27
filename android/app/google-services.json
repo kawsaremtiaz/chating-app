@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "767495002584",
+    "project_id": "kchat-e224f",
+    "storage_bucket": "kchat-e224f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767495002584:android:74968c3bc9ed0e1d14baad",
+        "android_client_info": {
+          "package_name": "com.example.kchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRGymN_LvB23XZtsmbh-yVVFWaGa3j7ZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
